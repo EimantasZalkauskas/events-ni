@@ -1,0 +1,26 @@
+:root { color-scheme: light dark; }
+* { box-sizing: border-box; }
+body {
+  font: 16px/1.5 system-ui, sans-serif;
+  max-width: 720px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+h1 { margin-bottom: .25rem; }
+.sub { color: #888; margin-top: 0; font-size: .9rem; }
+.event { display: flex; gap: 1rem; padding: 1rem 0; border-top: 1px solid #8883; }
+.event .thumb {
+  width: 96px; height: 96px; object-fit: cover; border-radius: 8px;
+  flex: 0 0 auto; background: #8882;
+}
+.event h2 { font-size: 1.05rem; margin: 0 0 .25rem; }
+.meta { color: #888; font-size: .85rem; margin: 0 0 .35rem; }
+.tag {
+  display: inline-block; font-size: .75rem; padding: .1rem .45rem;
+  border: 1px solid #8886; border-radius: 999px;
+}
+.hero {
+  width: 100%; max-height: 320px; object-fit: cover;
+  border-radius: 12px; margin: 1rem 0; background: #8882;
+}
+a { color: inherit; }

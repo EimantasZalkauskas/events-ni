@@ -1,0 +1,62 @@
+{
+  "error": 0,
+  "totalcount": 4,
+  "results": [
+    {
+      "id": "38455012",
+      "eventname": "Timmy Regisford — All Night Long",
+      "description": "The Shelter legend takes over for a five-hour deep house marathon.",
+      "eventcode": "CLUB",
+      "startdate": "2026-09-05 22:00:00",
+      "enddate": "2026-09-06 03:00:00",
+      "venue": { "id": "29901", "name": "The Black Box", "latitude": "54.6008", "longitude": "-5.9265", "town": "Belfast", "postcode": "BT1 2LA" },
+      "largeimageurl": "https://cdn.skiddle.com/events/large/38455012.jpg",
+      "imageurl": "https://cdn.skiddle.com/events/38455012.jpg",
+      "link": "https://www.skiddle.com/e/38455012",
+      "entryprice": "18",
+      "genres": [ { "name": "House" } ]
+    },
+    {
+      "id": "38460188",
+      "eventname": "Bicep (DJ Set)",
+      "description": "Belfast's own return home for an intimate warehouse show.",
+      "eventcode": "CLUB",
+      "startdate": "2026-09-12 21:00:00",
+      "enddate": "2026-09-13 02:00:00",
+      "venue": { "id": "31220", "name": "Telegraph Building", "latitude": "54.5996", "longitude": "-5.9245", "town": "Belfast", "postcode": "BT1 3EB" },
+      "largeimageurl": "https://cdn.skiddle.com/events/large/38460188.jpg",
+      "imageurl": "https://cdn.skiddle.com/events/38460188.jpg",
+      "link": "https://www.skiddle.com/e/38460188",
+      "entryprice": "27.50",
+      "genres": [ { "name": "Techno" } ]
+    },
+    {
+      "id": "38471933",
+      "eventname": "Free Record Fair",
+      "description": "Diggers' market with 20+ sellers. Free entry all day.",
+      "eventcode": "LIVE",
+      "startdate": "2026-09-14 11:00:00",
+      "enddate": "2026-09-14 17:00:00",
+      "venue": { "id": "29901", "name": "The Black Box", "latitude": "54.6008", "longitude": "-5.9265", "town": "Belfast", "postcode": "BT1 2LA" },
+      "largeimageurl": "https://cdn.skiddle.com/events/large/38471933.jpg",
+      "imageurl": "https://cdn.skiddle.com/events/38471933.jpg",
+      "link": "https://www.skiddle.com/e/38471933",
+      "entryprice": "FREE",
+      "genres": [ { "name": "Various" } ]
+    },
+    {
+      "id": "38480777",
+      "eventname": "Timmy Regisford — All Night Long",
+      "description": "Same gig, different listing ID (simulates a second source). Same title, date and venue -> same fingerprint -> one canonical event.",
+      "eventcode": "CLUB",
+      "startdate": "2026-09-05 22:00:00",
+      "enddate": "2026-09-06 03:00:00",
+      "venue": { "id": "29901", "name": "The Black Box", "latitude": "54.6008", "longitude": "-5.9265", "town": "Belfast", "postcode": "BT1 2LA" },
+      "largeimageurl": "https://cdn.skiddle.com/events/large/38480777.jpg",
+      "imageurl": "https://cdn.skiddle.com/events/38480777.jpg",
+      "link": "https://www.skiddle.com/e/38480777",
+      "entryprice": "18",
+      "genres": [ { "name": "House" } ]
+    }
+  ]
+}
